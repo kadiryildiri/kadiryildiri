@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kadiryildiri
+- 🌱 I’m currently learning python
+- 📫 How to reach me ...
